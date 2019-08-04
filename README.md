@@ -1,4 +1,4 @@
-This project has been created as a demonstration of the building blocks for a property management system (designed like a CMS). Please note that, while this is a part of a real project, all propietary code has been removed and what remains is a base to build upon. Follow the instructions below to continue deevelopment.
+This project has been created as a demonstration of the building blocks for a property management system (designed like a CMS). Please note that, while this is a part of a real project, all propietary code has been removed and what remains is a base to build upon. Follow the instructions below to continue development.
 
 ## Configuration
 
@@ -6,7 +6,7 @@ This project has been built using [Create React App](https://github.com/facebook
 - [Firebase](https://www.npmjs.com/package/firebase)
 - [Firestore](https://www.npmjs.com/package/@firebase/firestore)
 - [Material-UI](https://www.npmjs.com/package/material-ui)
-- [Material-UI Icons](https://www.npmjs.com/package/material-ui)
+- [Material-UI Icons](https://www.npmjs.com/package/@material-ui/icons)
 
 In order to run the project, you must first run the following command:
 
@@ -14,7 +14,7 @@ In order to run the project, you must first run the following command:
 
 This installs all components listed in `package.json`.
 
-Following this, you must place your configuration details from [Firebase Console](https://console.firebase.google.com/) in `src\config.js`.<br>
+Following this, you must replace the configuration details in `src\config.js` with details from your [Firebase Console](https://console.firebase.google.com/).<br>
 For more details, please follow [these steps form the documentation](https://firebase.google.com/docs/web/setup).
 
 ## Running the Project
@@ -57,7 +57,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Additional Details
 
 For additional details, feel free to shoot an E-Mail to vikesh@beyondthebyte.com. I'd be glad to help in any way I can.<br>
-Please bare in mind that I'm working on several projects at any given time, so I might take a few days to write back to you.
+Please bear in mind that I'm working on several projects at any given time, so I might take a few days to write back to you.
 
 You may visit [my portfolio](https://vikeshcodes.com/) to learn more about me and my work.<br>
-If you're hesitant about coding, remember: Coding is an art, not a science. The goal is the plot, the variables are the characters and you are God, writing their story. Make a pull request and break the code if you have to in order to understand why it was there in the first place. Everyone, even Gods, start somewhere.
+If you're hesitant about coding, remember: Coding is more of an art than a science. The goal is the plot, the variables are the characters and you are God, writing their story. Break the code if you have to in order to understand why it was there in the first place. Everyone, even Gods, start somewhere.
